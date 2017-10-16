@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  color: white;
+}
+h1 {
+  font-size: 45px;
+  text-align: center;
+  color: orange;
+  font-family: "Audiowide", cursive;
+  margin-top: 2%;
+}
+
+.weather-box {
+  margin: 10px auto auto auto;
+  text-align: center;
+  width: 40%;
+  font-size: 18px;
+}
+span {
+  color: orange;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.temp:hover {
+  cursor: pointer;
+}
+#script {
+  text-transform: capitalize;
+}
+
+
+h3 {
+  text-align:right;
+}
+
+.footer-icons {
+  height: 50px;
+  width: 50px;
+  background-color: orange;
+  padding: 10px;
+  margin-left: -3px;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: orange;
+  background-color:black;
+  font-family: verdana;
+  font-size: 12px;
+}
